@@ -6,7 +6,7 @@ myCity = input("What is your city? ")
 FoodChoice = input("What would you like to search for? ")
 
 API_key = 'Your API Key'
-client_id = 'F1oAG49WJt-yVXvdyKnU7w'
+client_id = 'Your Client ID'
 ENDPOINT = 'https://api.yelp.com/v3/businesses/search'
 HEADERS = {'Authorization': 'Bearer %s' % API_key}
 
