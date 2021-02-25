@@ -3,3 +3,5 @@ Yelp API, requests user for a location (City) and what type of food or you would
 
 ## Workshop by CSUSM Developer Student Clubs
 ### What we used:
+- Python 3
+- 
