@@ -22,5 +22,6 @@ data = response.json()
 
 
 for place in data['businesses']:
+	print("")
 	print(place['name'])
 	print(place['location']['display_address'])
