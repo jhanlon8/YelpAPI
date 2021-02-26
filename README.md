@@ -6,3 +6,5 @@ Yelp API, requests user for a location (City/Zip Code) and what type of food you
 - Python 3
 - Pip
 - Yelp Developers Account
+
+## Output:
